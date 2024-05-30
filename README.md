@@ -1,0 +1,4 @@
+Desafio afim de atender a aula do módulo Dominando Python e Suas Estruturas de Dados, curo DIO.
+Desafio para criar um sistema bancário com saques, depoistos e extrato baseado em estrutura de repetições e condicionantes de forma simples. 
+
+OBS: foram acrescentadas cores com a biblioteca colorama, assim  data e hora do saque e depósito.
