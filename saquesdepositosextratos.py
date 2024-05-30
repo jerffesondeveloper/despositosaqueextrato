@@ -83,6 +83,4 @@ while True:
         print(Fore.BLACK + Back.RED  +'\nOperação falhou! O valor informado não é válido.'+ Fore.RESET +  Back.RESET )
 
 
-
-
-
+#fim do desafio
